@@ -1,9 +1,9 @@
-import React from 'react'
+//import React from 'react'
 
 function Login() {
     
-  return (
-    <div className='loginForm'>
+  //return (
+    //<div className='loginForm'>
     <form>
       <input type="text" name="email" placeholder='Email' required />
       <input type="password" name="password" placeholder='Enter your password' required />
