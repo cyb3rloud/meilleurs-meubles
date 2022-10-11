@@ -1,0 +1,142 @@
+.App{
+    text-align: center;
+}
+
+.nav{
+    /* background-color: goldenrod; */
+    display: flex;
+    margin-top: 2rem;
+    border-bottom: solid;
+    border-bottom-color: green;
+}
+
+
+.icon{
+    cursor: pointer;
+}
+
+.icon span:nth-child(1) {
+    font-size: 3rem;
+    color: green;
+    margin-left: 63rem;
+    position: relative;
+}
+
+.home-page{
+    display: flex;
+    background: rgb(213, 213, 243);
+    padding-bottom: 10rem;
+}
+
+.furn1{
+    height: 420px;
+    margin-left: 10rem;
+    margin-top: 2rem;
+}
+
+.form{
+    margin-top: 30px;
+    padding: 23px;
+    margin-left: 30rem;
+    margin-right: 28rem;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.form > input{
+    font-size: 20px;
+    display: grid;
+    margin-bottom: 20px;
+}
+
+.login{
+    margin-right: 1rem;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.view-button{
+    color: white;
+    font-size: 15px;
+    background-color: green;
+    padding: 8px;
+    border-color: transparent;
+    border-radius: 5px;
+}
+
+.furn{
+    display: inline-block;
+    /* margin-right: 70px; */   
+}
+
+.image-wrapper{
+    margin-left: 30px;
+    margin-top: 2rem;
+    padding: 1rem;
+    border: solid rgb(230, 236, 230);
+}
+
+.addCart{
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.addCart:hover{
+    background-color: rgb(97, 97, 189);
+}
+
+.addCart:active{
+    transform: scale(1.01,1.01);
+}
+
+.search-input{
+    margin-top: 15px;
+    margin-left: 55rem;
+}
+
+.search-input > input{
+    padding: 20px 60px 20px 30px;
+    border-radius: 5px;
+}
+
+.furn-details{
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+
+.footer{
+    /* background-color: goldenrod; */
+    display: flex;
+    margin-top: 0.2rem;
+    margin-bottom: 1.5rem;
+    padding: 12px;
+    background: whitesmoke;
+    border-top: solid;
+    border-top-color: lightgreen;
+    border-bottom: solid;
+    border-bottom-color: green;
+}
+
+h4{
+    text-align: center;
+}
+
+.links{
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 2rem;
+}
+
+.footer h5 li{
+    padding-right: 20px;
+    margin-left: 10rem;
+    font-size: 25px;
+    
+}
+
