@@ -1,8 +1,8 @@
-import React from 'react';
+//import React from 'react';
 import furn1 from '../images/furn.jpg'
 
-function HomePage() {
-  return (
+//function HomePage() {
+  //return (
     <div>
     <div className='home-page'>
       <div>
