@@ -20,6 +20,7 @@ c) Open the index.html file from the zipped file with any browser.
 
 # Live Link
 The site is live at:
+https://ndungu1mac.github.io/furniturebookingproject/
 
 
 # Licence
