@@ -1,5 +1,4 @@
-# Furniture-Booking
-
+# MEILLEURS MEUBLES
 
 # Description
 Furniture-Booking is an app that allows customers to go through our furniture collections and order for their favorite furniture at their convenience online.
@@ -14,13 +13,13 @@ Furniture-Booking is an app that allows customers to go through our furniture co
 
 # Installation
 a) Clone to this repo by running the command : git clone 
-git@github.com:ndungu1mac/furniturebookingproject.git
+git@github.com:ndungu1mac/meilleurs-meubles.git
 b) Create a folder to unzip the downloaded files.
 c) Open the index.html file from the zipped file with any browser.
 
 # Live Link
 The site is live at:
-https://ndungu1mac.github.io/furniturebookingproject/
+https://ndungu1mac.github.io/meilleurs-meubles/
 
 
 # Licence
