@@ -1,7 +1,7 @@
 # MEILLEURS MEUBLES
 
 # Description
-Furniture-Booking is an app that allows customers to go through our furniture collections and order for their favorite furniture at their convenience online.
+Meilleurs meubles is a furniture purchasing  app that allows customers to go through our furniture collections and order for their favorite furniture at their convenience online.
 
 # Features
 1. As a user you should be able to:
